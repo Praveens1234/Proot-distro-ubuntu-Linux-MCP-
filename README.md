@@ -1,4 +1,4 @@
-# Root MCP Server
+# Proot-distro-ubuntu-Linux-MCP-
 
 A powerful Model Context Protocol (MCP) server that provides comprehensive system-level access and control. This server acts as a "God Mode" interface for Linux systems, offering tools for process management, file system operations, package management, and network inspection.
 
